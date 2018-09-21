@@ -1,5 +1,8 @@
 _repo: The-Merman-and-the-Figure-Head_53901
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53901-h/images/cover.jpg
 creator:
   author:
     agent_name: Guernsey, Clara F. (Clara Florida)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '6311'
     url: http://www.gutenberg.org/2009/agents/6311
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53901#The-Merman-and-the-Figure-Head
 gutenberg_issued: '2017-01-06'
 gutenberg_type: Text
 identifiers:
