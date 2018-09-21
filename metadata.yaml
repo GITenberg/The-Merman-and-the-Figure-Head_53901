@@ -1,0 +1,27 @@
+_repo: The-Merman-and-the-Figure-Head_53901
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guernsey, Clara F. (Clara Florida)
+    alias: Guernsey, Clara Florida
+    birthdate: 1836
+    deathdate: 1893
+    gutenberg_agent_id: '6311'
+    url: http://www.gutenberg.org/2009/agents/6311
+description: ''
+gutenberg_issued: '2017-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mermaids -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Fantasy fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Merman and the Figure-Head
+url: http://www.gutenberg.org/ebooks/53901
